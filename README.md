@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @aaronmbgit
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m @aaronmbgit
+- I’m interested in learning how to build wimbile websites and webpages.
+- I’m currently learning HTML and  java
+- I’m looking to collaborate on developer projects to showcase my newfound abilities.
+- Reach me at aaronbrown557@gmail.com
+- Pronouns: he/him
 
-<!---
-aaronmbgit/aaronmbgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
